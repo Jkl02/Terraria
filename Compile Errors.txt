@@ -1,0 +1,2 @@
+c:\Users\marco\Documents\My Games\Terraria\ModLoader\Mod Sources\Test\Items\Weapons\vinegladio.cs(10,14) : error CS1001: Previsto identificatore
+
