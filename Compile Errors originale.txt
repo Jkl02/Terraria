@@ -1,0 +1,2 @@
+c:\Users\marco\Documents\My Games\Terraria\ModLoader\Mod Sources\MOD\MOD.cs(8,11) : error CS0234: Il tipo o il nome dello spazio dei nomi 'Items' non esiste nello spazio dei nomi 'MOD'; probabilmente manca un riferimento a un assembly
+
