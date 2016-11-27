@@ -17,7 +17,7 @@ public class {Vine gladio ModItem;
         item.height = 60;             //Sword height
         item.toolTip = "First sword"; //Item description
         item.useTime = 25;            //how fast
-		item.useAnimation = 25; 
+	item.useAnimation = 25; 
         item.useStyle = 25;           //Style is how this item is used, is the style of the sword
         item.knockBack = 5;           //Sword knockback
         item.value = 100;
